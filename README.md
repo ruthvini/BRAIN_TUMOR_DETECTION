@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor Classification using Deep Learning
+# 🧠 Brain Tumor Detection using VGG16
 
 A **Streamlit**-based web application that classifies brain tumors from MRI scans using a **VGG16** deep learning model.
 
