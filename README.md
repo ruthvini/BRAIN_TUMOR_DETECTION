@@ -75,7 +75,7 @@ pip install -r requirements.txt
 
 
 ## 👩‍💻 Author
-Developed by **Ruthvika Miryala**
+Developed by **Ruthvika Miryala and Tejaswi Gogikar**
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ruthvika-miryala) ✨
 
